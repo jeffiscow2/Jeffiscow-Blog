@@ -6,15 +6,17 @@
 
 main {
   display: flex;
-  flex-direction: row;
-  align-items: center;
+  flex-direction: column;
+  align-items: ;
   justify-content: space-evenly;
+  gap: 20px;
   background-color: rgb(233, 241, 241);
   border: 1px solid #000000;
 }
 
 .site-nav ul {
   display: flex;
+  list-style-type: none;
   justify-content: space-evenly;
   background-color: aqua;
   border: 1px solid #000000;
@@ -62,21 +64,28 @@ h2 {
   align-items: center;
 }
 
-.image-gallery {
+.Art-image-container {
   display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: aqua;
+  border: 1px solid #000000;
+}
+
+.image-gallery {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
   gap: 5px;
 }
 
-.image-gallery > li{
-  flex-basis: 350px;
+.image-gallery img {
+  object-fit: cover;
+  border: 1px solid #000000;
+  border-radius: 20px;
 }
 
-.image-gallery li img {
-  object-fit: cover;
-  max-width: 100%;
-  height: auto;
-  vertical-align: middle;
-  border-radius: 5px;
-}
+
