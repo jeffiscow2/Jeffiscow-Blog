@@ -10,24 +10,10 @@ The goal of this project is to let the info stick to my brain, move away from Wo
 ## Minimum Viable Product Progress
 
 - [ ] 4 main page static website 
-
-<<<<<<< HEAD
 - [ ] Home page that will have basic info few recent blog post links to other pages 
-
-- [ ] About me page will have picture of me or picture I took. Kinda resume thing 
-=======
-- [] Home page that will have basic info and a few recent blog post links to other pages 
-
-- [] About me page will have a picture of me or a picture I took. Kinda resume thing 
->>>>>>> ecb83290278f9b8404bd3924ee7ae4119f2e433c
-
+- [ ] About me page will have picture of me or picture I took.
 - [ ] All blog post page
-
-<<<<<<< HEAD
 - [ ] Projects/portfolio  
-=======
-- [] Projects/Portfolio  
->>>>>>> ecb83290278f9b8404bd3924ee7ae4119f2e433c
 
 ## Rough Layout
 
