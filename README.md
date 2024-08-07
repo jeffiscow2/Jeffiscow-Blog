@@ -31,4 +31,4 @@ Drew these up. It's the general vibe I'm going for, but it will probably change 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL v3](LICENSE).
