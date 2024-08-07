@@ -24,6 +24,13 @@ The goal of this project is to let the info stick to my brain, move away from Wo
 Drew these up. It's the general vibe I'm going for, but it will probably change as I go.
 
 ![Rough-LayoutbBlog](https://github.com/user-attachments/assets/abd27ddf-6c73-4d2b-a3af-c6d7e462ae76)
+![BlogPost-Layout](https://github.com/user-attachments/assets/4717e538-8814-4de6-b8fb-1115cc5608b7)
+![Photo-ArtLayout](https://github.com/user-attachments/assets/91b50663-cb98-4494-be3f-0d531f211300)
+![TechRelatedProjects-Layout](https://github.com/user-attachments/assets/559da949-2205-446e-be6e-d37d5d9cd264)
+
+
+
+
 
 
 ## License
