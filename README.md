@@ -17,7 +17,7 @@ The goal of this project is to let the info stick to my brain, move away from Wo
 
 ## Rough Layout
 
-Drew these up. It's the general vibe I'm going for, but it will probably change as I go.
+Drew these up. It's the general vibe I'm going for, but it will probably change as I go and I learn new things.
 
 ![Rough-LayoutbBlog](https://github.com/user-attachments/assets/abd27ddf-6c73-4d2b-a3af-c6d7e462ae76)
 ![BlogPost-Layout](https://github.com/user-attachments/assets/4717e538-8814-4de6-b8fb-1115cc5608b7)
