@@ -4,11 +4,21 @@
 	box-sizing: border-box;
 }
 
+body {
+	background-color:rgba(0, 255, 136, 0.829);
+}
+
 main {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-evenly;
 	gap: 20px;
+}
+
+.resizesocial {
+	display: block;
+	height: 25px;
+	width: 25px;
 }
 
 .site-nav ul {
@@ -26,6 +36,18 @@ main {
 	align-items: center;
 	background-color: rgb(233, 241, 241);
 	border: 1px solid #000000;
+}
+
+.abouttext {
+	text-align: center;
+
+}
+
+.aboutimg {
+	display: flex;
+	flex-direction: row;
+	flex-grow: 1;
+	justify-content:space-around
 }
 
 .recent-post article {
@@ -82,3 +104,4 @@ h2 {
 	border: 1px solid #000000;
 	border-radius: 20px;
 }
+
