@@ -17,17 +17,16 @@ main {
 
 .contactinfo {
 	display: flex;
+	text-align: center;
+	flex-direction: column;
 }
 
-.contactinfo > p {
-	display: flex;
-	align-items: center;
-	justify-content: center;
+.socialicons {
+	text-align: center;
+	flex-direction: row;
 }
 
 .resizesocial {
-	display:flex;
-	flex-direction: row;
 	height: 25px;
 	width: 25px;
 }
